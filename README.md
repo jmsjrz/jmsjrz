@@ -37,7 +37,7 @@ These projects were completed during the first quarter at Holberton School, focu
 ------
 
 ```
-Competition is always a fantastic thing, and the computer industry is intensely competitive.” — Bill Gates
+"Competition is always a fantastic thing, and the computer industry is intensely competitive." — Bill Gates
 ```
 
 ## CONTACT ME:
