@@ -45,6 +45,8 @@ Competition is always a fantastic thing, and the computer industry is intensely 
 <a href="https://www.linkedin.com/in/james-jarosz-fr/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+<br>
+
 Credit: [jmsjrz](https://github.com/jmsjrz) \
 Last edited on: 15/03/2024
 
