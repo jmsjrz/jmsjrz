@@ -1,6 +1,6 @@
 <img src="https://t3.ftcdn.net/jpg/04/99/35/54/360_F_499355401_bcBoOyUj1BqmTrlbdKBJkDQl7FBvHmW0.jpg" height="21px" style="width: 100%;">
 
-## HELLO WORLD, I'M JAMES 👋
+## HELLO WORLD, I'M JAMES 👋 
 
 I'm currently diving deep into the fundamentals at Holberton School, embracing the challenge of becoming a proficient software engineer. Born and studying in France, I bring a unique blend of cultural insights and a passion for technology to everything I do.
 
@@ -48,7 +48,9 @@ These projects were completed during the first quarter at Holberton School, focu
 
 <br>
 
-Credit: [jmsjrz](https://github.com/jmsjrz) \
+Credit: [jmsjrz](https://github.com/jmsjrz) \ 
 Last edited on: 15/03/2024
 
 <img src="https://t3.ftcdn.net/jpg/04/99/35/54/360_F_499355401_bcBoOyUj1BqmTrlbdKBJkDQl7FBvHmW0.jpg" height="21px" style="width: 100%;">
+
+![](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge&color=red)
