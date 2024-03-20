@@ -6,7 +6,7 @@ I'm currently diving deep into the fundamentals at Holberton School, embracing t
 
 ## WHAT I'M FOCUSED ON
 - **LEARNING:** Right now, my journey at Holberton School is all about mastering the fundamentals of programming, data structures, algorithms, and low-level programming in C, along with automation and scripting in Shell/Bash.
-- **COLLABORATING:** I’m on the lookout to collaborate on open source projects and real-world challenges, especially those that can have a positive impact.
+- **COLLABORATING:** I’m on the lookout to collaborate on open source projects and real-world challenges, especially those that can have a positive impact on my learning.
 - **EXPLORING NEW TECHNOLOGIES:** Always eager to explore new technologies and programming languages that catch my eye.
 
 ## ACADEMIC BACKGROUND:
