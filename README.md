@@ -28,6 +28,21 @@ These projects were completed during the first quarter at Holberton School, focu
   - Algorithms
   - Low-level programming concepts
 
+### [CUSTOM PRINTF PROJECT](https://github.com/jmsjrz/holbertonschool-printf)
+
+- **OVERVIEW:** 
+Developed at Holberton School, this collaborative project aimed to recreate the C standard `printf` function. It served as a comprehensive exercise in understanding low-level programming and teamwork.
+
+- **KEY LEARNINGS:**
+  - Mastery of C programming and low-level concepts.
+  - Experience with collaborative coding, including Git workflows and peer reviews.
+
+- **TEAMWORK:**
+  - Implemented in pairs, fostering a collaborative environment for coding, problem-solving, and learning.
+  - Utilized pair programming and code reviews to ensure quality and shared knowledge.
+
+This project not only enhanced our technical skills in C but also our abilities to work effectively as part of a development team.
+
 ## TOOLS & LANGUAGES MASTERED
 [![My Skills](https://skillicons.dev/icons?i=vscode,emacs,vim,git,github,windows,apple)](https://skillicons.dev)
 
