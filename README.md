@@ -13,7 +13,7 @@ I'm currently diving deep into the fundamentals at Holberton School, embracing t
 [<img align="left" height="94px" width="94px" alt="Holberton School" src="https://blog.holbertonschool.com/wp-content/uploads/2019/04/instagram_feed180.jpg"/>](https://www.holbertonschool.fr/)
 **SOFTWARE ENGINEERING ─ FUNDAMENTALS** \
 [**Holberton School**](https://www.holbertonschool.fr/) • IN PROGRESS \
-Skills: `BASH` `C` `C#` `PYTHON` `MYSQL` `SQL` `GIT` `SSH/SSL` `HTML5` `CSS3` `JAVASCRIPT` 
+Skills: `BASH` `C` `PYTHON` `MYSQL` `SQL` `GIT` `SSH/SSL` `HTML5` `CSS3` `JAVASCRIPT` 
 
 <br clear="left"/>
 
