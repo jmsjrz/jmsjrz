@@ -44,10 +44,10 @@ Developed at Holberton School, this collaborative project aimed to recreate the 
 This project not only enhanced our technical skills in C but also our abilities to work effectively as part of a development team.
 
 ## TOOLS & LANGUAGES MASTERED
-[![My Skills](https://skillicons.dev/icons?i=vscode,emacs,vim,git,github,windows,apple)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,emacs,vim,git,github,ubuntu,windows,apple,bash,c,docker,)](https://skillicons.dev)
 
 ## TOOLS & LANGUAGES IN STUDY
-[![My Skills](https://skillicons.dev/icons?i=bash,c,cs,python,html,css,js,docker,linux,ubuntu)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,lua,python,react,django)](https://skillicons.dev)
 
 ------
 
