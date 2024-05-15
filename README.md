@@ -63,7 +63,7 @@ These projects not only enhanced our technical skills in C but also our abilitie
 
 ## TOOLS & LANGUAGES MASTERED
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,emacs,vim,git,github,ubuntu,windows,apple,bash,c,docker,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,bash,c,docker,)](https://skillicons.dev)
 
 ## TOOLS & LANGUAGES IN STUDY
 
