@@ -21,15 +21,6 @@ Skills: `BASH` `C` `PYTHON` `MYSQL` `SQL` `GIT` `SSH/SSL` `HTML5` `CSS3` `JAVASC
 
 ## PROJECTS:
 
-### [LOW LEVEL PROGRAMMING](https://github.com/jmsjrz/holbertonschool-low_level_programming)
-
-- **OVERVIEW:**
-  These projects were completed during the first quarter at Holberton School, focusing on the low-level programming and algorithm track.
-- **KEY LEARNINGS:**
-  - Data Structures
-  - Algorithms
-  - Low-level programming concepts
-
 ### [CUSTOM PRINTF PROJECT](https://github.com/jmsjrz/holbertonschool-printf)
 
 - **OVERVIEW:**
