@@ -71,7 +71,7 @@ These projects refined both technical skills in C and collaborative development 
 <br>
 
 Credit: [jmsjrz](https://github.com/jmsjrz) \
-Last edited on: 09/08/2024
+Last edited on: 27/09/2024
 
 <img src="https://t3.ftcdn.net/jpg/04/99/35/54/360_F_499355401_bcBoOyUj1BqmTrlbdKBJkDQl7FBvHmW0.jpg" height="21px" style="width: 100%;">
 
