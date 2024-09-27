@@ -2,13 +2,13 @@
 
 ## HELLO WORLD, I'M JAMES 👋
 
-I am currently diving deep into the fundamentals at Holberton School, embracing the challenge of becoming a proficient software engineer. Born and studying in France, I bring a unique blend of cultural insights and a passion for technology to everything I do. Additionally, I am also working on Codecademy to complement my learning.
+Currently, I'm diving deep into the fundamentals of computer science, sharpening my skills as a software developer. Born and based in France, I bring a unique blend of cultural perspectives and a passion for technology to my work. Alongside this, I'm enhancing my knowledge through various platforms like Codecademy.
 
 ## WHAT I'M FOCUSED ON
 
-- **LEARNING:** I’m currently focused on mastering the fundamentals of programming, data structures, algorithms, and low-level programming in C at Holberton School. I’m also expanding my knowledge through Codecademy to reinforce my learning and explore additional topics.
-- **COLLABORATING:** I’m actively seeking opportunities to collaborate on open-source projects and real-world challenges, particularly those that can enhance my learning experience.
-- **EXPLORING NEW TECHNOLOGIES:** Always eager to explore new technologies and programming languages that catch my eye.
+- **LEARNING:** I'm focused on mastering core programming concepts, data structures, and algorithms. My main interest lies in full-stack development, with a growing passion for mobile development that I'm starting to explore.
+- **COLLABORATING:** I'm actively looking for opportunities to collaborate on open-source projects and real-world challenges, particularly those that can help me deepen my understanding and expand my skill set.
+- **EXPLORING NEW TECHNOLOGIES:** Always eager to learn, I continuously explore new technologies and programming languages, especially those related to building engaging and interactive applications.
 
 ## ACADEMIC BACKGROUND:
 
@@ -50,7 +50,7 @@ These projects refined both technical skills in C and collaborative development 
 
 ## TOOLS & LANGUAGES MASTERED
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,c,bash,mysql,docker,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,c,bash,mysql,postgresql,docker,git)](https://skillicons.dev)
 
 ## TOOLS & LANGUAGES IN STUDY
 
