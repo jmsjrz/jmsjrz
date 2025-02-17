@@ -67,9 +67,7 @@ Compétences: `HTML` `CSS` `JAVASCRIPT` `PYTHON` `TYPESCRIPT` `DJANGO` `REACT` `
 
 ## COMPÉTENCES TECHNIQUES
 
-### Languages, Frameworks & Outils
-
-[![My Skills](https://skillicons.dev/icons?i=c,bash,html,css,tailwind,js,ts,python,django,react,nodejs,postgresql,mongodb,docker,git,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,bash,html,css,tailwind,js,ts,python,django,react,nodejs,postgresql,mongodb,docker,aws)](https://skillicons.dev)
 
 ---
 
