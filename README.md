@@ -1,4 +1,10 @@
-## HELLO WORLD, JE SUIS JAMES 👋
+<img src="https://t3.ftcdn.net/jpg/04/99/35/54/360_F_499355401_bcBoOyUj1BqmTrlbdKBJkDQl7FBvHmW0.jpg" height="21px" style="width: 100%;">
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=HELLO+WORLD%2C+JE+SUIS+JAMES+%F0%9F%91%8B)](https://git.io/typing-svg)
+
+</div>
 
 Développeur freelance, je transforme vos idées en solutions web et mobiles rapides, sécurisées, et adaptées à vos besoins. Spécialisé en Django et React, je vous accompagne dans le développement d'applications performantes et évolutives. Grâce à mon expérience avec les technologies back-end, front-end et cloud, je conçois des solutions sur mesure, en alliant simplicité et efficacité pour répondre à vos attentes et celles de vos utilisateurs.
 
@@ -31,7 +37,7 @@ Compétences: `HTML` `CSS` `JAVASCRIPT` `PYTHON` `TYPESCRIPT` `DJANGO` `REACT` `
 - **RÉSUMÉ:** Plateforme de gestion et d'organisation d'événements pour particuliers et professionnels. Permet de planifier, découvrir et participer à des événements en toute simplicité.
 - **APPRENTISSAGES:**
   - Développement full-stack d'envergure en solo
-  - Optimisation des performances et gestion d’état avancée
+  - Optimisation des performances et gestion d'état avancée
   - Sécurisation et gestion d'authentification via JWT et OTP
 - **FONCTIONNALITÉS CLÉS:**
   - Dashboard interactif et responsive
@@ -48,7 +54,7 @@ Compétences: `HTML` `CSS` `JAVASCRIPT` `PYTHON` `TYPESCRIPT` `DJANGO` `REACT` `
 
 - **RÉSUMÉ:** Portfolio professionnel moderne mettant en avant mon expertise et mes projets. Développé avec React et TypeScript, il offre une interface fluide et optimisée.
 - **APPRENTISSAGES:**
-  - Création d’une expérience utilisateur fluide et interactive
+  - Création d'une expérience utilisateur fluide et interactive
   - Gestion du support multilingue et du mode sombre/clair
   - Optimisation SEO, accessibilité et performances
 - **FONCTIONNALITÉS CLÉS:**
@@ -77,7 +83,10 @@ Compétences: `HTML` `CSS` `JAVASCRIPT` `PYTHON` `TYPESCRIPT` `DJANGO` `REACT` `
 
 <br>
 
-Credit: [jmsjrz](https://github.com/jmsjrz) \
-Last edited on: 17/02/2025
+<img src="https://t3.ftcdn.net/jpg/04/99/35/54/360_F_499355401_bcBoOyUj1BqmTrlbdKBJkDQl7FBvHmW0.jpg" height="21px" style="width: 100%;">
+
+<br>
 
 ![](https://komarev.com/ghpvc/?username=jmsjrz&style=for-the-badge&color=red)
+
+— Last edited on: 17/02/2025
